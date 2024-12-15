@@ -1,0 +1,16 @@
+const config = {
+  RAYDIUMPUBLICKEY: "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+  HTTPURL: "https://api.mainnet-beta.solana.com",
+  WSSURL: "wss://api.mainnet-beta.solana.com",
+  NATIVETOKEN: "So11111111111111111111111111111111111111112",
+  PRIVATEKEY:
+    "5uFU4uaBm9XNRBZBrc76WG6zPGRM4ufZxaqX8wnUMgMsMZqnMEDnMjm6M8yWJup7xpRHqvsgN6c2H3G1kzvfnuQ",
+  BUYAMOUNT: 0.1,
+  SLIPPAGE: 100,
+  STOPLOSS: 60,
+  TAKEPROFIT: 150,
+  WHITELISTEDUSERS: [6942245563, 7877535576],
+  OBSERVEONLY: false,
+};
+
+export default config;
